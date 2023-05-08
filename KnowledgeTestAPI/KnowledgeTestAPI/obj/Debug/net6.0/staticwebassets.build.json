@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gqXmE1h2ccyxsy1Y8rhqSxuWHcChkSHdGLua9w2vCOQ=",
+  "Source": "KnowledgeTestAPI",
+  "BasePath": "_content/KnowledgeTestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
